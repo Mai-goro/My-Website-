@@ -1,0 +1,71 @@
+{
+  "site": {
+    "owner": "Ibrahim Aliyu Aliyu",
+    "role": "Computer Engineering Undergraduate & Founder, Maigoro Enterprises",
+    "last_updated": "2026-08-31"
+  },
+  "projects": [
+    {
+      "id": "prj-001",
+      "title": "Student Industrial Work Experience Scheme (SIWES)",
+      "date": "2025",
+      "category": "Industrial Training",
+      "description": "Six-month industrial attachment with the Department of Computer Engineering, Ahmadu Bello University, Zaria. Work covered practical computer networking tasks such as LAN configuration and topology testing, routine hardware diagnostics and system assembly, and general IT support duties within a university engineering environment.",
+      "image_url": "assets/images/project-siwes.jpg"
+    },
+    {
+      "id": "prj-002",
+      "title": "Diploma in Computer System Engineering",
+      "date": "2021",
+      "category": "Academic Project",
+      "description": "Capstone coursework for the Diploma in Computer System Engineering, focused on foundational computer hardware assembly, system diagnostics and troubleshooting, and an introduction to networking principles that now underpin the writer's degree studies.",
+      "image_url": "assets/images/project-diploma.jpg"
+    },
+    {
+      "id": "prj-003",
+      "title": "Personal Portfolio Website (This Site)",
+      "date": "2026",
+      "category": "Coursework Project",
+      "description": "A dependency-free, multi-page personal portfolio built with semantic XHTML/HTML5 and pure CSS (Grid and Flexbox), using JSON for structured content and JSON-LD for search-engine metadata, with no JavaScript or CMS platform involved.",
+      "image_url": "assets/images/project-portfolio.jpg"
+    },
+    {
+      "id": "prj-004",
+      "title": "Maigoro Enterprises",
+      "date": "Ongoing",
+      "category": "Entrepreneurship",
+      "description": "Founded and operated a clothing line and custom fashion design accessories brand, covering brand identity, apparel sourcing, client relations and digital outreach alongside full-time engineering studies.",
+      "image_url": "assets/images/project-maigoro.jpg"
+    }
+  ],
+  "education": [
+    { "institution": "Ahmadu Bello University, Zaria", "period": "2021 \u2013 Date", "credential": "B.Eng. Computer Engineering (in view)" },
+    { "institution": "Ahmadu Bello University, Zaria", "period": "2019 \u2013 2021", "credential": "Diploma in Computer System Engineering" },
+    { "institution": "Diamond Academy, Zaria", "period": "2016 \u2013 2018", "credential": "Senior Secondary Certificate Examination" },
+    { "institution": "Baba Ahmed LGEA Primary School", "period": "2006 \u2013 2012", "credential": "First School Leaving Certificate" }
+  ],
+  "skills": {
+    "technical": [
+      "Computer Networking & Infrastructure",
+      "Computer System Diagnostics & Assembly",
+      "Generative Artificial Intelligence Tools",
+      "Microsoft Office (Word, Excel, PowerPoint)"
+    ],
+    "entrepreneurial": [
+      "Venture Founding & Management",
+      "Fashion & Accessory Design",
+      "Brand Identity & Strategy",
+      "Client Relations & Outreach"
+    ],
+    "soft": [
+      "Research & Academic Inquiry",
+      "Adaptability",
+      "Leadership & Time Management",
+      "Reading"
+    ]
+  },
+  "referees": [
+    { "name": "Dr. Aliyu Magaji Mafindi", "affiliation": "Petroleum Training Institute, Effurun, Delta State", "phone": "08037024446" },
+    { "name": "Dr. Garba Zakari", "affiliation": "Department of Educational Foundations, College of Technical and Vocational Education, Kaduna Polytechnic, Kaduna State", "phone": "08062208815" }
+  ]
+}
